@@ -33,3 +33,19 @@
 ## Action Items
 
 ## Thoughts | Notes
+
+# Page 07 of 26C :: Friday #39.73 Date: 260926
+
+## Appointments
+- 10 ○ A90 Inducer Assembly Wave#64756 Team Discussion
+-  1 ● Reliability Team Meeting
+
+## Meeting Notes
+
+## Action Items
+1. Fill in Planisware
+
+## Thoughts | Notes
+
+
+***
