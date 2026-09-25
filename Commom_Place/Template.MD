@@ -9,7 +9,7 @@
 - 12 ● 12 on the Dot
 - 4 ○ 4:30 meeting
 - 5 ○ 5:30 meeting
-</details?
+</details>
 
 ## Meeting Notes
 
