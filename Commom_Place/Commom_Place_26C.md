@@ -37,15 +37,18 @@
 # Page 07 of 26C :: Friday #39.73 Date: 260926
 
 ## Appointments
+
 - 10 ○ A90 Inducer Assembly Wave#64756 Team Discussion
--  1 ● Reliability Team Meeting
+- 1 ● Reliability Team Meeting
 
 ## Meeting Notes
 
 ## Action Items
+
 1. Fill in Planisware
+2. Need to get Lexi a NDA for Project East:: email to Neil sent
+3. Setup meeting with Jona on Software Controls update
 
 ## Thoughts | Notes
 
-
-***
+---
