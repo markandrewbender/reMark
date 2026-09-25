@@ -8,7 +8,7 @@ This is hidden.
 
 </details>
 
-`<details>`
+<details>
 
 <summary>This is the big picture</summary>
 
