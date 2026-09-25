@@ -11,5 +11,5 @@ This is hidden.
 <details>
 
 <summary>This is the big picture</summary>
-
+Wow. Hidden detail
 </details>
