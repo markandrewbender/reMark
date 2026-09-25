@@ -4,7 +4,7 @@
 # Page xx of 2xC :: Wednesday #39.73 Date: 260923
 
 <details>
-<summary><h2>Appointments</h2?
+<summary><h2>Appointments</h2></summary>
 - 11 ● 11 on the Dot
 - 12 ● 12 on the Dot
 - 4 ○ 4:30 meeting
