@@ -43,11 +43,14 @@
 
 ## Meeting Notes
 
-## Action Items
+<details>
+<summary><h2>Action Items</h2></summary>
 
 1. Fill in Planisware
 2. Need to get Lexi a NDA for Project East:: email to Neil sent
 3. Setup meeting with Jona on Software Controls update
+</details>
+
 
 ## Thoughts | Notes
 
