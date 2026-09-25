@@ -32,3 +32,18 @@ GitHub supports mathematical notation.
 - [x] Architecture Review
 - [ ] FMEA Review
 </details>
+
+## Phase 1 - Planning
+ 
+<details>
+<summary>Expand Tasks</summary>
+ 
+### Step 1.1 Define Scope
+- [ ] Task 1
+- [ ] Task 2
+ 
+### Step 1.2 Gather Requirements
+- [ ] Task 1
+- [ ] Task 2
+ 
+</details>
