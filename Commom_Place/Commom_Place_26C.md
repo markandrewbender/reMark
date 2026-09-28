@@ -49,18 +49,20 @@
 1. Fill in Planisware
 2. Need to get Lexi a NDA for Project East:: email to Neil sent
 3. Setup meeting with Jona on Software Controls update
-</details>
 
+</details>
 
 ## Thoughts | Notes
 
 ---
+
 # Page 08 of 26C :: Monday #40.72 Date: 260928
 
 ## Appointments
+
 - 10 ○ Wave#63492 Redesign Inducer Wheel
 - 01 ○ Wave#64756 Inducer Assembly
-- 3 ● Romulus DFMEA
+- 03 ● Romulus DFMEA
 
 ## Meeting Notes
 
@@ -70,9 +72,9 @@
 
 ## Workout Results
 
-| Activity | Calories | Minutes  |Heart Rate|
-|----------|----------|----------|----------|
-| Workout#3| 675      | 60       | 144      |
-| Workout#4| 490      | 60       |  131     |
+| Activity  | Calories | Minutes | Heart Rate |
+| --------- | -------- | ------- | ---------- |
+| Workout#3 | 675      | 60      | 144        |
+| Workout#4 | 490      | 60      | 131        |
 
-***
+---
