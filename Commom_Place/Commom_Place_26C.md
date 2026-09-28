@@ -55,3 +55,24 @@
 ## Thoughts | Notes
 
 ---
+# Page 08 of 26C :: Monday #40.72 Date: 260928
+
+## Appointments
+- 10 ○ Wave#63492 Redesign Inducer Wheel
+- 01 ○ Wave#64756 Inducer Assembly
+- 3 ● Romulus DFMEA
+
+## Meeting Notes
+
+## Action Items
+
+## Thoughts | Notes
+
+## Workout Results
+
+| Activity | Calories | Minutes  |Heart Rate|
+|----------|----------|----------|----------|
+| Workout#3| 675      | 60       | 144      |
+| Workout#4| 490      | 60       |  131     |
+
+***
