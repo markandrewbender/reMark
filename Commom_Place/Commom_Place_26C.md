@@ -67,6 +67,7 @@
 ## Meeting Notes
 
 ## Action Items
+
 - Received an email from Ron Butcher on a Component Supplier request to create an AI generated DFMEA on a Schematic. I responeded that the component level schematic will not get us a Carrier Level needs by our Passport reviews. Placed into my *Relyence email catergory. [Link to OneNote](https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/_layouts/Doc.aspx?sourcedoc={CD5978D4-FE59-43BE-B0FB-777EA8688D6D}&wd=target%28Relyence.one%7CBEEC4E0E-36CB-4D99-9ABB-14CAA7289B2F%2FDFMEA%20Request%20for%20Electronic%20Suppliers%7C4FF0F156-E4FA-4070-8F1D-BD2D019E1ACD%2F%29&wdpartid={2447E380-C758-0A54-1684-DBC1054509A6}{1}&wdsectionfileid={E3A429A8-144C-49B6-A0EF-F4B825D9FDD3}&end onenote:https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/Documents/RES/Relyence.one#DFMEA%20Request%20for%20Electronic%20Suppliers&section-id={BEEC4E0E-36CB-4D99-9ABB-14CAA7289B2F}&page-id={4FF0F156-E4FA-4070-8F1D-BD2D019E1ACD}&end "One")*
 
 * Received an email from Ron Butcher on a Component Supplier request to create an AI generated DFMEA on a Schematic. I responeded that the component level schematic will not get us a Carrier Level needs by our Passport reviews. Placed into my *Relyence email catergory. [Link to OneNote](https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/_layouts/Doc.aspx?sourcedoc={CD5978D4-FE59-43BE-B0FB-777EA8688D6D}&wd=target%28Relyence.one%7CBEEC4E0E-36CB-4D99-9ABB-14CAA7289B2F%2FDFMEA%20Request%20for%20Electronic%20Suppliers%7C4FF0F156-E4FA-4070-8F1D-BD2D019E1ACD%2F%29&wdpartid={2447E380-C758-0A54-1684-DBC1054509A6}{1}&wdsectionfileid={E3A429A8-144C-49B6-A0EF-F4B825D9FDD3}&end onenote:https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/Documents/RES/Relyence.one#DFMEA%20Request%20for%20Electronic%20Suppliers&section-id={BEEC4E0E-36CB-4D99-9ABB-14CAA7289B2F}&page-id={4FF0F156-E4FA-4070-8F1D-BD2D019E1ACD}&end "One")*
@@ -97,6 +98,8 @@
 * Received email from Ron on evaulating a Fuse removal. Meeting setup for Thursday October 1. [Fuse Remvoal discussion](https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/_layouts/Doc.aspx?sourcedoc={CD5978D4-FE59-43BE-B0FB-777EA8688D6D}&wd=target%28Robin%20Hood.one%7C499BCBD9-148E-424A-82C3-3F6C3FA3DEFA%2FQuestion%20from%20Visemann%20on%20Removing%20Fuse%7C99961C35-6F58-41DE-93C4-3B26A386B3AE%2F%29&wdpartid={7D0C60A0-C0C1-045C-1F3B-2C9252A8A4F3}{1}&wdsectionfileid={B4893D09-6CC3-4112-94AB-3F1A6055383F}&end onenote:https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/Documents/RES/Robin%20Hood.one#Question%20from%20Visemann%20on%20Removing%20Fuse&section-id={499BCBD9-148E-424A-82C3-3F6C3FA3DEFA}&page-id={99961C35-6F58-41DE-93C4-3B26A386B3AE}&end "email")
 
 ## Thoughts | Notes
+
+* Querried Co-pilot to generate a month to month bond interest stream. Added to my stock spredsheet. Also found out that Fidelity has a page where I calculate this.
 
 ## Workout Results
 
