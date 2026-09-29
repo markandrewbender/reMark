@@ -108,3 +108,5 @@
 | Row(4,6)) | Value B  | Value C | Value C1   |
 | Ride(3,5) | Value E  | Value F | Value F1   |
 | Strength  |          |         |            |
+
+[Link to OneNote](...)
