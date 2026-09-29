@@ -80,3 +80,27 @@
 | Workout#4 | 490      | 60      | 131        |
 
 ---
+
+# Page 09 of 26C :: Tuesday #40.72 Date: 260929
+
+# Appointments
+
+- 11 ● Field Trial Sync
+- 1   ● Romulus Team Meeting
+- 
+
+## Meeting Notes
+
+## Action Items
+
+* Received email from Ron on evaulating a Fuse removal. Meeting setup for Thursday October 1. [Fuse Remvoal discussion](https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/_layouts/Doc.aspx?sourcedoc={CD5978D4-FE59-43BE-B0FB-777EA8688D6D}&wd=target%28Robin%20Hood.one%7C499BCBD9-148E-424A-82C3-3F6C3FA3DEFA%2FQuestion%20from%20Visemann%20on%20Removing%20Fuse%7C99961C35-6F58-41DE-93C4-3B26A386B3AE%2F%29&wdpartid={7D0C60A0-C0C1-045C-1F3B-2C9252A8A4F3}{1}&wdsectionfileid={B4893D09-6CC3-4112-94AB-3F1A6055383F}&end onenote:https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/Documents/RES/Robin%20Hood.one#Question%20from%20Visemann%20on%20Removing%20Fuse&section-id={499BCBD9-148E-424A-82C3-3F6C3FA3DEFA}&page-id={99961C35-6F58-41DE-93C4-3B26A386B3AE}&end "email")
+
+## Thoughts | Notes
+
+## Workout Results
+
+| Activity  | Calories | Minutes | Heart Rate |
+| --------- | -------- | ------- | ---------- |
+| Row(4,6)) | Value B  | Value C | Value C1   |
+| Ride(3,5) | Value E  | Value F | Value F1   |
+| Strength  |          |         |            |
