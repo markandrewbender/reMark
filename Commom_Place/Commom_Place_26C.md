@@ -116,12 +116,8 @@
 
 ## Appointments
 
-- 11 ● 11 on the Dot
 - 11 ● NPD
-- 12 ● 12 on the Dot
 - 1  ● Communications Meeting
-- 4 ○ 4:30 meeting
-- 5 ○ 5:30 meeting
 
 ## Meeting Notes
 
