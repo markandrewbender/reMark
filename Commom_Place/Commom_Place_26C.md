@@ -111,7 +111,6 @@
 
 [Link to OneNote](...)
 
-
 # Page 10 of 26C :: Wednesday #40.72 Date: 260930
 
 ## Appointments
@@ -122,7 +121,10 @@
 ## Meeting Notes
 
 ## Action Items
+
 1. Ken Wayne:: Sent over a DFEMA from GE for the Blue Ocean. Asked me to evaulate. Setup meeting to discuss Octboer 5, 2026
+
+   [Link to GE DFMEA](https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/_layouts/Doc.aspx?sourcedoc={CD5978D4-FE59-43BE-B0FB-777EA8688D6D}&wd=target%28BLue%20Ocean.one%7C2127A3F2-7B5F-477A-9F4A-BADEB3B28580%2FFMEA%20provided%20by%20GE%7C207AED3F-84B4-45A2-8105-7114F7B36273%2F%29&wdpartid={D9D546D8-D05E-415D-A087-97C64DC6D13C}{1}&wdsectionfileid={E188CDF6-F02F-4FE4-84E9-76F0C375A547}&end onenote:https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/Documents/RES/BLue%20Ocean.one#FMEA%20provided%20by%20GE&section-id={2127A3F2-7B5F-477A-9F4A-BADEB3B28580}&page-id={207AED3F-84B4-45A2-8105-7114F7B36273}&end)
 
 ## Thoughts | Notes
 
