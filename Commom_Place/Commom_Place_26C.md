@@ -106,23 +106,28 @@
 | Activity  | Calories | Minutes | Heart Rate |
 | --------- | -------- | ------- | ---------- |
 | Row(4,6)) | 249      | 32:18   | 140        |
-| Ride(3,5) | 203      | 17:25   | 149        |
+| Ride(3,5) | 203      | 17:35   | 149        |
 | Strength  | 44       | 5:13    | 141        |
 
 [Link to OneNote](...)
 
 
-# Page xx of 2xC :: Wednesday #39.73 Date: 260923
+# Page 10 of 26C :: Wednesday #40.72 Date: 260930
 
 ## Appointments
 
 - 11 ● 11 on the Dot
+- 11 ● NPD
 - 12 ● 12 on the Dot
+- 1  ● Communications Meeting
 - 4 ○ 4:30 meeting
 - 5 ○ 5:30 meeting
 
 ## Meeting Notes
 
 ## Action Items
+1. Ken Wayne:: Sent over a DFEMA from GE for the Blue Ocean. Asked me to evaulate. Setup meeting to discuss Octboer 5, 2026
 
 ## Thoughts | Notes
+
+## Workout Results
