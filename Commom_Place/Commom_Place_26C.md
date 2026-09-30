@@ -105,8 +105,24 @@
 
 | Activity  | Calories | Minutes | Heart Rate |
 | --------- | -------- | ------- | ---------- |
-| Row(4,6)) | Value B  | Value C | Value C1   |
-| Ride(3,5) | Value E  | Value F | Value F1   |
-| Strength  |          |         |            |
+| Row(4,6)) | 249      | 32:18   | 140        |
+| Ride(3,5) | 203      | 17:25   | 149        |
+| Strength  | 44       | 5:13    | 141        |
 
 [Link to OneNote](...)
+
+
+# Page xx of 2xC :: Wednesday #39.73 Date: 260923
+
+## Appointments
+
+- 11 ● 11 on the Dot
+- 12 ● 12 on the Dot
+- 4 ○ 4:30 meeting
+- 5 ○ 5:30 meeting
+
+## Meeting Notes
+
+## Action Items
+
+## Thoughts | Notes
