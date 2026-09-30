@@ -105,8 +105,23 @@
 
 | Activity  | Calories | Minutes | Heart Rate |
 | --------- | -------- | ------- | ---------- |
-| Row(4,6)) | Value B  | Value C | Value C1   |
-| Ride(3,5) | Value E  | Value F | Value F1   |
-| Strength  |          |         |            |
+| Row(4,6)) | 249      | 32:18   | 140        |
+| Ride(3,5) | 203      | 17:35   | 149        |
+| Strength  |   44     |  5:13   | 141        |
 
-[Link to OneNote](...)
+
+# Page 10 of 26C :: Wednesday #40.72 Date: 260930
+
+## Appointments
+- 11 ● NPD
+- 1  ● Communications Meeting
+- 4 ○ 4:30 meeting
+- 5 ○ 5:30 meeting
+
+## Meeting Notes
+
+## Action Items
+
+## Thoughts | Notes
+
+## Workout Results
