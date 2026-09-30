@@ -115,12 +115,11 @@
 ## Appointments
 - 11 ● NPD
 - 1  ● Communications Meeting
-- 4 ○ 4:30 meeting
-- 5 ○ 5:30 meeting
 
 ## Meeting Notes
 
 ## Action Items
+1. Ken Wayne:: Sent over a DFEMA from GE for the Blue Ocean. Asked me to evaulate. Setup meeting to discuss Octboer 5, 2026
 
 ## Thoughts | Notes
 
