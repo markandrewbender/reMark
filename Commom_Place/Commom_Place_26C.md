@@ -129,3 +129,21 @@
 ## Thoughts | Notes
 
 ## Workout Results
+
+# Page 11 of 26C :: Thursday #40.72 Date: 261001
+
+## Appointments
+- 3 ○ Vissemenn Review Electric circuit
+
+## Meeting Notes
+
+## Action Items
+
+## Thoughts | Notes
+
+## Workout Results
+
+| Activity | Calories | Minutes  |Heart Rate|
+|----------|----------|----------|----------|
+| Value A  | Value B  | Value C  | Value C1 |
+| Value D  | Value E  | Value F  |Value F1  |
