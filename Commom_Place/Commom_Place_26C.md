@@ -196,7 +196,8 @@
 
 1. 731::There is a Bug in the system currently identified by Drew Ober that prevents the system from operating on the subseqwuent cycle after the initial Mitigation. Therby preventing heating and guarnteing that the customer will find the failure by lack of heat. Drew Ober will test to verify by 10/15/26
 2. 731::Review the FMEA with Paul Haydock , Damaris and Ross to further clairify the failure modes. Mark Bender 10/9/26
-3. Link to [731](https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/_layouts/Doc.aspx?sourcedoc={CD5978D4-FE59-43BE-B0FB-777EA8688D6D}&wd=target%28Next%20GenA2L.one%7C044A07E5-8D77-45C2-B44A-04E22D1C78C0%2FNextGen%20Reliability%20Airflow%20DFMEA%7C0E4840F9-2BAC-48DA-B7AE-4F57200598BA%2F%29&wdpartid={077F6973-1BCA-03C3-2CBA-6836360B6070}{1}&wdsectionfileid={B5715E1D-32F8-4127-A020-617C1E9B64A2}
+3. Link to 731: [731](https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/_layouts/Doc.aspx?sourcedoc={CD5978D4-FE59-43BE-B0FB-777EA8688D6D}&wd=target%28Next%20GenA2L.one%7C044A07E5-8D77-45C2-B44A-04E22D1C78C0%2FNextGen%20Reliability%20Airflow%20DFMEA%7C0E4840F9-2BAC-48DA-B7AE-4F57200598BA%2F%29&wdpartid={077F6973-1BCA-03C3-2CBA-6836360B6070}{1}&wdsectionfileid={B5715E1D-32F8-4127-A020-617C1E9B64A2}&end onenote:https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/Documents/RES/Next%20GenA2L.one#NextGen%20Reliability%20Airflow%20DFMEA&section-id={044A07E5-8D77-45C2-B44A-04E22D1C78C0}&page-id={0E4840F9-2BAC-48DA-B7AE-4F57200598BA}&object-id={1DBCC646-D995-09E4-320D-181C087A3EB9}&4F)
+
 ## Thoughts | Notes
 
 ## Stock Trades
