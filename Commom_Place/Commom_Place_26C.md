@@ -178,8 +178,7 @@
 | Value A  | Value B  | Value C | Value C1   |
 | Value D  | Value E  | Value F | Value F1   |
 
-
-# Page xx of 2xC :: Wednesday #39.73 Date: 260923
+# Page 16 of 26C :: Wednesday #39.73 Date: 260923
 
 ## Appointments
 
