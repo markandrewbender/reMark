@@ -202,6 +202,10 @@
 
 ## Stock Trades
 
+1. SHOP Sell all. 96.167@$167.34. $16,092.24
+2. TQQQ Sell 180.255 @ $83.22  $ $14,999.92
+3. NVDA Sell 63.341 @ 236.81 , $14,999.78
+
 ## Workout Results
 
 | Activity | Calories | Minutes | Heart Rate |
