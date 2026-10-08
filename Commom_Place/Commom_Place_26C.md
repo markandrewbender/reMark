@@ -178,18 +178,24 @@
 | Value A  | Value B  | Value C | Value C1   |
 | Value D  | Value E  | Value F | Value F1   |
 
-# Page 16 of 26C :: Wednesday #39.73 Date: 260923
+# Page 16 of 26C :: Thursday #41.71 Date: 261008
 
 ## Appointments
 
-- 11 ● 11 on the Dot
-- 12 ● 12 on the Dot
-- 4 ○ 4:30 meeting
-- 5 ○ 5:30 meeting
+1. 07 ●  NextGen Reliability Airflow DFMEA (GASPOT#731)
+2. 10 ●  Wave#63492
+3. 20 ○  Samsung Compressor Discussion with Adolfo Benitez (GASPOT#425)
+4. 30 ○  Wave#64756 A90 Inducer Assembly
 
 ## Meeting Notes
 
+* 731:: We discussed the Airflow Reliabity. If we have a Mitigation Event + We have Call for Heating after 10 minutes the system will operate but be 10F cooler then we tested for. This means that water will condene and reduce the reliability of the system
+* 731:: In my view the acceptablity is based on rather the customer will detect. We know that a sensor mitigation is detected by the system. But the failure may not be identified by the customer
+
 ## Action Items
+
+1. There is a Bug in the system currently identified by Drew Ober that prevents the system from operating on the subseqwuent cycle after the initial Mitigation. Therby preventing heating and guarnteing that the customer will find the failure by lack of heat. Drew Ober will test to verify by 10/15/26
+2. Review the FMEA with Paul Haydock , Damaris and Ross to further clairify the failure modes. Mark Bender 10/9/26
 
 ## Thoughts | Notes
 
