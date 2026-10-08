@@ -129,3 +129,33 @@
 ## Thoughts | Notes
 
 ## Workout Results
+
+
+# Page 16 of 26C :: Thursday #41.71 Date: 261008
+
+## Appointments
+
+- 7   ● NextGen Reliability Airflow DFMEA (GASPOT#731)
+- 10 ● Wave#63492
+- 2   ○ Samsung Compressor (GASPOT#425)
+- 3   ○ Wave#64756 A90 Inducer
+
+## Meeting Notes
+
+* 731 - Discussed the situation whereby A Mitigation Event Occurs and then a Call for Heating after 10 minutes the heat will be cooler than what was tested. This will cause condesation in the Airflow.
+
+## Action Items
+
+* 731 - Setup Meeting with Paul, Damaris and Ross to further develop DFMEA
+* Run Testing on a known Bug that might prevent the furnance to come on the second mitigation attempt. To see if this Bug will force Customer to call into service tech for repair therby avoiding the reliability issue
+
+## Thoughts | Notes
+
+## Stock Trades
+
+## Workout Results
+
+| Activity | Calories | Minutes | Heart Rate |
+| -------- | -------- | ------- | ---------- |
+| Value A  | Value B  | Value C | Value C1   |
+| Value D  | Value E  | Value F | Value F1   |
