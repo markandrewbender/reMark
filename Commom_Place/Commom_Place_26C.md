@@ -212,3 +212,30 @@
 | -------- | -------- | ------- | ---------- |
 | Value A  | Value B  | Value C | Value C1   |
 | Value D  | Value E  | Value F | Value F1   |
+
+
+# Page 17 of 26C :: Friday #41.71 Date: 261009
+
+## Appointments
+
+- 11 ● 11 on the Dot
+- 12 ● 12 on the Dot
+- 4 ○ 4:30 meeting
+- 5 ○ 5:30 meeting
+
+## Meeting Notes
+
+## Action Items
+
+## Thoughts | Notes
+
+## Stock Trades
+
+## Workout Results
+
+| Activity | Calories | Minutes | Heart Rate |
+| -------- | -------- | ------- | ---------- |
+| Value A  | Value B  | Value C | Value C1   |
+| Value D  | Value E  | Value F | Value F1   |
+
+---
