@@ -218,7 +218,7 @@
 
 ## Appointments
 
-- 11 ● 11 on the Dot
+- 9 ● Blue Ocean OVP/V&V Strategy
 - 12 ● 12 on the Dot
 - 4 ○ 4:30 meeting
 - 5 ○ 5:30 meeting
