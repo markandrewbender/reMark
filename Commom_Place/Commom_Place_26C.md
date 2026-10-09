@@ -208,11 +208,11 @@
 
 ## Workout Results
 
-| Activity | Calories | Minutes | Heart Rate |
-| -------- | -------- | ------- | ---------- |
-| Value A  | Value B  | Value C | Value C1   |
-| Value D  | Value E  | Value F | Value F1   |
-
+| Activity  | Calories | Minutes | Heart Rate |
+| --------- | -------- | ------- | ---------- |
+| Row(3,5)  | 137      | 17:15   | 136        |
+| Ride(4,6) | 362      | 31:55   | 142        |
+| Strength  | 51       | 5:36    | 137        |
 
 # Page 17 of 26C :: Friday #41.71 Date: 261009
 
@@ -230,14 +230,3 @@
 ## Action Items
 
 ## Thoughts | Notes
-
-## Stock Trades
-
-## Workout Results
-
-| Activity | Calories | Minutes | Heart Rate |
-| -------- | -------- | ------- | ---------- |
-| Value A  | Value B  | Value C | Value C1   |
-| Value D  | Value E  | Value F | Value F1   |
-
----
