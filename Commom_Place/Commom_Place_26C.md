@@ -221,7 +221,7 @@
 - 9 ● P209846 Blue Ocean OVP/V&V Strategy
 - 10 ○ Clarify Airflow discussion with Paul H::732
 - 1 ● 1.5F up and down stagging
-- 5 ○ 5:30 meeting
+- 3 ● eDragon Software Controls DFMEA updates
 
 ## Meeting Notes
 
