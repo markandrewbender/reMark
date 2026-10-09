@@ -219,13 +219,13 @@
 ## Appointments
 
 - 9 ● P209846 Blue Ocean OVP/V&V Strategy
-- 10 ○ Clarify Airflow discussion with Paul H
+- 10 ○ Clarify Airflow discussion with Paul H::732
 - 1 ● 4:30 meeting
 - 5 ○ 5:30 meeting
 
 ## Meeting Notes
 
-* We added several failure modes to the airflow fmea. [Link](https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/_layouts/Doc.aspx?sourcedoc={CD5978D4-FE59-43BE-B0FB-777EA8688D6D}&wd=target%28Next%20GenA2L.one%7C044A07E5-8D77-45C2-B44A-04E22D1C78C0%2FNextGen%20Reliability%20Airflow%20DFMEA%7C0E4840F9-2BAC-48DA-B7AE-4F57200598BA%2F%29&wdpartid={077F6973-1BCA-03C3-2CBA-6836360B6070}{1}&wdsectionfileid={B5715E1D-32F8-4127-A020-617C1E9B64A2}&end onenote:https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/Documents/RES/Next%20GenA2L.one#NextGen%20Reliability%20Airflow%20DFMEA&section-id={044A07E5-8D77-45C2-B44A-04E22D1C78C0}&page-id={0E4840F9-2BAC-48DA-B7AE-4F57200598BA}&object-id={77BDDF1A-6C27-01CA-0B4A-0F946869C08F}&A)
+* 732::We added several failure modes to the airflow fmea. [Link](https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/_layouts/Doc.aspx?sourcedoc={CD5978D4-FE59-43BE-B0FB-777EA8688D6D}&wd=target%28Next%20GenA2L.one%7C044A07E5-8D77-45C2-B44A-04E22D1C78C0%2FNextGen%20Reliability%20Airflow%20DFMEA%7C0E4840F9-2BAC-48DA-B7AE-4F57200598BA%2F%29&wdpartid={077F6973-1BCA-03C3-2CBA-6836360B6070}{1}&wdsectionfileid={B5715E1D-32F8-4127-A020-617C1E9B64A2}&end onenote:https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/Documents/RES/Next%20GenA2L.one#NextGen%20Reliability%20Airflow%20DFMEA&section-id={044A07E5-8D77-45C2-B44A-04E22D1C78C0}&page-id={0E4840F9-2BAC-48DA-B7AE-4F57200598BA}&object-id={77BDDF1A-6C27-01CA-0B4A-0F946869C08F}&A)
 
 ## Action Items
 
