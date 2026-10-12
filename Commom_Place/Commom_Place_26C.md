@@ -22,8 +22,6 @@
 
 ---
 
----
-
 # Page 06 of 26C :: Thursday #39.73 Date: 260924
 
 ## Appointments
@@ -228,5 +226,30 @@
 * 732::We added several failure modes to the airflow fmea. [Link](https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/_layouts/Doc.aspx?sourcedoc={CD5978D4-FE59-43BE-B0FB-777EA8688D6D}&wd=target%28Next%20GenA2L.one%7C044A07E5-8D77-45C2-B44A-04E22D1C78C0%2FNextGen%20Reliability%20Airflow%20DFMEA%7C0E4840F9-2BAC-48DA-B7AE-4F57200598BA%2F%29&wdpartid={077F6973-1BCA-03C3-2CBA-6836360B6070}{1}&wdsectionfileid={B5715E1D-32F8-4127-A020-617C1E9B64A2}&end onenote:https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/Documents/RES/Next%20GenA2L.one#NextGen%20Reliability%20Airflow%20DFMEA&section-id={044A07E5-8D77-45C2-B44A-04E22D1C78C0}&page-id={0E4840F9-2BAC-48DA-B7AE-4F57200598BA}&object-id={77BDDF1A-6C27-01CA-0B4A-0F946869C08F}&A)
 
 ## Action Items
+
+## Thoughts | Notes
+
+# Page 17 of 26C :: Monday #41.71 Date: 261009
+
+## Appointments
+
+- 08 ○ Design Discussion on Removing Fuse::736
+- 11 ○ Blue Ocean DFMEA Comments::467
+- 01 ● 1.5F Up&Down Filed Trail Results
+- ~~03 ● V&V Strategy~~
+
+## Meeting Notes
+
+* 736:: Discussion with Da on proposed remvoal of Fuse. We all agreed we did not like it.
+  * Circuit Identification must be changed from N to L2
+  * Capacitors shorted cause a grounding hazard
+  * X Capacitors have been cited as fire hazards
+  * We prefer esclation if Konstatin is insistent on change
+* 467:: We discussed the Blue Ocean DFMEA.
+  * THere were a lot of question that only GE can provide
+
+## Action Items
+
+467:: Need to ask Ted Wayne to setup meeting with GE to discuss DFMEA
 
 ## Thoughts | Notes
