@@ -245,7 +245,7 @@
   * Capacitors shorted cause a grounding hazard
   * X Capacitors have been cited as fire hazards
   * We prefer esclation if Konstatin is insistent on change
-* 467:: We discussed the Blue Ocean DFMEA.
+* 467:: We discussed the Blue Ocean DFMEA. [Link](https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/_layouts/Doc.aspx?sourcedoc={CD5978D4-FE59-43BE-B0FB-777EA8688D6D}&wd=target%28Robin%20Hood.one%7C499BCBD9-148E-424A-82C3-3F6C3FA3DEFA%2FQuestion%20from%20Viessmann%20on%20Removing%20Fuse%7C99961C35-6F58-41DE-93C4-3B26A386B3AE%2F%29&wdpartid={7D0C60A0-C0C1-045C-1F3B-2C9252A8A4F3}{1}&wdsectionfileid={B4893D09-6CC3-4112-94AB-3F1A6055383F}&end onenote:https://carcgl-my.sharepoint.com/personal/mark_a_bender_carrier_com/Documents/RES/Robin%20Hood.one#Question%20from%20Viessmann%20on%20Removing%20Fuse&section-id={499BCBD9-148E-424A-82C3-3F6C3FA3DEFA}&page-id={99961C35-6F58-41DE-93C4-3B26A386B3AE}&object-id={BA07946A-BC81-0256-21F0-20F50EB17D7C}&A)
   * THere were a lot of question that only GE can provide
 
 ## Action Items
