@@ -28,6 +28,13 @@
 
 ---
 
+title: "Daily Note — YYYY-MM-DD" date: YYYY-MM-DD day: Day week: YYYY-W## tags:
+
+daily-note
+log
+
+
+
 Mermaid Test
 Simple Flow
 ```mermaid
