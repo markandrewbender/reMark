@@ -27,3 +27,13 @@
 | Value D  | Value E  | Value F | Value F1   |
 
 ---
+
+Mermaid Test
+Simple Flow
+graph TD
+    A[Handwritten Notes] --> B[Take Photo]
+    B --> C[AI]
+    C --> D[Markdown]
+    D --> E[GitHub]
+Notes
+This is text underneath the diagram.
