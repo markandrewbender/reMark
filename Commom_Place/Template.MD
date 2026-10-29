@@ -30,6 +30,7 @@
 
 Mermaid Test
 Simple Flow
+```mermaid
 graph TD
     A[Handwritten Notes] --> B[Take Photo]
     B --> C[AI]
